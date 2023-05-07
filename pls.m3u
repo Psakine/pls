@@ -1,3 +1,13 @@
 #EXTM3U
 #EXTINF:0, Akuji
 https://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:0, GRPZDC
+https://hls.goodgame.ru/hls/166994.m3u8
+#EXTINF:0, fizcult
+https://hls.goodgame.ru/hls/29969.m3u8
+#EXTINF:0, gegeboyz
+https://hls.goodgame.ru/hls/99600.m3u8
+#EXTINF:0, maddy
+https://hls.goodgame.ru/hls/41677.m3u8
+#EXTINF:0, ejysarmat
+https://hls.goodgame.ru/hls/79256.m3u8
